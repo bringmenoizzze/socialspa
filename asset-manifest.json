@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/socialspa/static/css/main.da4ac400.chunk.css",
-    "main.js": "/socialspa/static/js/main.4893ad89.chunk.js",
-    "main.js.map": "/socialspa/static/js/main.4893ad89.chunk.js.map",
+    "main.js": "/socialspa/static/js/main.2199bb9a.chunk.js",
+    "main.js.map": "/socialspa/static/js/main.2199bb9a.chunk.js.map",
     "runtime-main.js": "/socialspa/static/js/runtime-main.8b1090df.js",
     "runtime-main.js.map": "/socialspa/static/js/runtime-main.8b1090df.js.map",
     "static/css/2.17e5ed98.chunk.css": "/socialspa/static/css/2.17e5ed98.chunk.css",
@@ -15,7 +15,7 @@
     "static/js/4.0778f874.chunk.js": "/socialspa/static/js/4.0778f874.chunk.js",
     "static/js/4.0778f874.chunk.js.map": "/socialspa/static/js/4.0778f874.chunk.js.map",
     "index.html": "/socialspa/index.html",
-    "precache-manifest.aafd39a5fcec59f16aca982c980aee60.js": "/socialspa/precache-manifest.aafd39a5fcec59f16aca982c980aee60.js",
+    "precache-manifest.99fdc793b076b051ae64f65d9eb518e0.js": "/socialspa/precache-manifest.99fdc793b076b051ae64f65d9eb518e0.js",
     "service-worker.js": "/socialspa/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/socialspa/static/css/2.17e5ed98.chunk.css.map",
     "static/css/3.1aff8e8a.chunk.css.map": "/socialspa/static/css/3.1aff8e8a.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.a77b2973.chunk.js",
     "static/css/main.da4ac400.chunk.css",
-    "static/js/main.4893ad89.chunk.js"
+    "static/js/main.2199bb9a.chunk.js"
   ]
 }
