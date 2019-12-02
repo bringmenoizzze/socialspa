@@ -1,6 +1,6 @@
 # Social SPA (it-samurai)
 Social SPA (it-samurai)
 
-Учебный проект соц. сети: 
+Training project of social network:
 
 https://bringmenoizzze.github.io/socialspa
